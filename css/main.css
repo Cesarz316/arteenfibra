@@ -1,0 +1,185 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+body{
+		
+	width: 100%;
+	background: #F2F2F2;
+}
+
+body li {
+
+	list-style: none;
+}
+
+
+
+
+h2 {
+	
+	color: #000000;
+	font-family: 'Frijole';
+	font-size: 40px;
+}
+
+
+header {
+	background: #0080FF;
+	padding-bottom: 5em;
+}
+
+header h1 {
+
+	font-family: 'Courgette';
+}
+
+header a {
+	float: left;
+	padding-left: 1em;
+	font-family: 'Kaushan Script';
+	font-size: 20px;
+	color: #000000;
+
+
+}
+
+
+
+header ul {
+	float: right;
+	padding-top: 1em;
+	font-size: 15px;
+	padding-right: 2em;
+}
+
+
+.jumbotron {
+	background: url(../imagenes/mecedora5.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 350px;
+
+}
+
+.col-md-6 h3 {
+
+	font-size: 35px;
+	color: #000000;
+	font-weight: bold;
+
+
+}
+
+.col-md-6 {
+
+	padding-top: 150px;
+
+}
+
+.col-md-6 p {
+
+	color: #000000;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+
+
+
+
+.carousel-inner{
+
+	background: #F2F2F2;
+	
+
+}
+
+.centrado {
+
+	margin:10px auto;
+	
+
+}
+
+.col-md-6 .phone {
+
+	
+	margin-bottom: 20px;
+	font-size: 25px;
+	 
+}
+.col-md-6 .email {
+	
+	font-size: 18px;
+	color: #000000;
+}
+
+.col-md-6 ul {
+	padding-left: 0em;
+	color: #000000;
+	
+
+}
+
+
+.col-md-6 address {
+
+	padding-top: 20px;
+    font-size: 1.5em;
+    color: #000000;
+}
+ 
+#pie-pagina {
+
+	background: #819FF7;
+	background-size: cover;
+	margin: 0 auto;
+	
+
+}
+
+
+ #pie-pagina p {
+ 	text-align: center;
+ 	padding-top: 30px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
